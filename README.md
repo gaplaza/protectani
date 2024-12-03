@@ -17,9 +17,9 @@ ProtectAni는 동물 보호소 봉사활동, 입양 등의 활동을 통해 포�
   - 현재까지 수행한 활동 리스트를 조회
   - 활동 삭제 시 백엔드에서도 데이터 삭제
 
-![Simulator Screenshot - iPhone 16 Plus - 2024-12-03 at 14 59 05](https://github.com/user-attachments/assets/b69a16f2-32cc-42b4-94b2-ddde44df4669)
-![Uploading Simulator Screenshot - iPhone 16 Plus - 2024-12-03 at 14.59.34
-![Simulator Screenshot - iPhone 16 Plus - 2024-12-03 at 15 00 01](https://github.com/user-attachments/assets/f1b7bcdd-f2e6-4990-93d5-f573efdc31dc)
-.png…]()
-![Simulator Screenshot - iPhone 16 Plus - 2024-12-03 at 15 00 14](https://github.com/user-attachments/assets/4d06fd9d-24ec-46dc-a573-ed11adfe7c2b)
-![Simulator Screenshot - iPhone 16 Plus - 2024-12-03 at 15 00 22](https://github.com/user-attachments/assets/5561031b-3e23-43aa-af92-39e22f24ca61)
+    
+![Simulator Screenshot - iPhone 16-3](https://github.com/user-attachments/assets/2d5b0d40-71ef-423b-9674-a56c73af49ce)
+![Simulator Screenshot - iPhone 16-4](https://github.com/user-attachments/assets/dc32978d-845f-48e7-96b3-7e17e4a448b2)
+![Simulator Screenshot - iPhone 16-5](https://github.com/user-attachments/assets/bc0baabd-e147-49a8-9285-4d4222b802ad)
+![Simulator Screenshot - iPhone 16-6](https://github.com/user-attachments/assets/9e959e3f-38f8-4d0b-b92f-c4353193c55b)
+![Simulator Screenshot - iPhone 16-7](https://github.com/user-attachments/assets/7e52762c-e768-4925-89fa-c22c931b0040)
